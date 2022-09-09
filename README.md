@@ -1,10 +1,14 @@
 # FMSS-Homework-1
-Homework-1
 
-İki tane sayfa olucak
 
-İlk sayfadan ikinci sayfaya gidilicek
 
-İkinci sayfada textfieldlar olucak buraya girilen verileri ilk sayfada gösterilecek
+### 223. FMSS Bilişim iOS Swift Bootcamp - Data Transfer App
 
-İster delegeta ister notification ister clouser
+![Simulator](https://github.com/FMSS-IOS-Patika-Bootcamp/homework-1-berkayyalcn21/blob/main/readmePhoto.png)
+
+### Tools
+
+- Swift
+  - Delegate
+- UIKit
+
