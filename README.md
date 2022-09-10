@@ -16,5 +16,7 @@
 
 - Swift
   - Delegate
+  - POP
+  - OOP
 - UIKit
 
