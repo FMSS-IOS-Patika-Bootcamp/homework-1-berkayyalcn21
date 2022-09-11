@@ -4,6 +4,8 @@
 
 ### 223. FMSS Bilişim iOS Swift Bootcamp - Data Transfer App
 
+![Simulator](https://github.com/FMSS-IOS-Patika-Bootcamp/homework-1-berkayyalcn21/blob/main/appIcon.png)
+
 #### Description
 - With this application, you can transfer data to the previous page.
 - The design was made over the Figma application and transferred to the code.
